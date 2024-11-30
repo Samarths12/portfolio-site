@@ -1,35 +1,51 @@
 export const skillsData = [
     {
-      label: "FRONT END",
+      label: "INDUSTRY KNOWLEDGE",
       data: [
         {
-          skillName: "HTML",
+          skillName: "PROMPT ENGINEERING",
           percentage: "90",
         },
         {
-          skillName: "CSS",
+          skillName: "NATURAL LANGUAGE PROCESSING(NLP)",
           percentage: "50",
         },
         {
-          skillName: "JAVASCRIPT",
+          skillName: "ARTIFICIAL INTELLIGENCE",
           percentage: "80",
+        },
+        {
+          skillName: "SOFTWARE DEVELOPMENT",
+          percentage: "75",
+        },
+        {
+          skillName: "KUBERNETES",
+          percentage: "85",
         },
       ],
     },
     {
-      label: "BACK END",
+      label: "TOOLS AND TECHNOLOGIES",
       data: [
         {
-          skillName: "JAVA",
+          skillName: "SWAGGER API",
           percentage: "70",
         },
         {
-          skillName: "PYTHON",
+          skillName: "DOCKER",
           percentage: "65",
         },
         {
-          skillName: "KOTLIN",
+          skillName: "REST-API",
           percentage: "35",
+        },
+        {
+          skillName: "JENKINS",
+          percentage: "80",
+        },
+        {
+          skillName: "AZURE DEVOPS",
+          percentage: "85",
         },
       ],
     },

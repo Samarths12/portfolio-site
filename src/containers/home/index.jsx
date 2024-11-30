@@ -14,9 +14,9 @@ const Home = () => {
     <section id="home" className="home">
       <div className="home__text-wrapper">
         <h1>
-          Hello, I'm John
+          Hello, I'm Bhavya Bansal
           <br />
-          Front end developer
+           Chief Technology Officer at Persist Venture 
         </h1>
       </div>
       <Animate

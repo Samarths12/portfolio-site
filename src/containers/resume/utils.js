@@ -1,22 +1,23 @@
 export const data = {
     experience: [
       {
-        title: "Consultant",
-        subTitle: "Miami, FL",
+        title: "Persist Ventures",
+        subTitle: "India",
         description:
-          " User Experience, Visual Design",
+          " Chief Technology Officer(CTO)",
       },
       {
-        title: "Senior Consultant",
-        subTitle: "London, UK",
+        title: "HeyDaw Technologies",
+        subTitle: "India",
         description:
-          "Web development, Databases, Backend developement",
+          "AI Software Developer",
       },
       {
-        title: "Project Manager",
-        subTitle: "Bangalore, INDIA",
+        title: "Telaverge Communications",
+        subTitle: "India",
         description:
-          "Creative Direction Project Management, Team Leading",
+          "Software Engineer",
+          
       },
     ],
     education: [
@@ -34,7 +35,7 @@ export const data = {
       },
       {
         title: "B.Tech",
-        subTitle: "XYZ institute of technology",
+        subTitle: "Dr. APJ Kalam Technical University",
         description:
           "Bachelor of technology in computer science",
       },
